@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-#theme: minima
+theme: cayman
 relative_links:
   enabled: true
   collections: true
