@@ -1,3 +1,10 @@
+---
+title: Angelo Velle
+subtitle: Welcome on my GitHub page
+layout: page
+callouts: home_callouts
+show_sidebar: true
+---
 
 <head>
 {% include google_analytics.html %}
