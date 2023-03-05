@@ -3,7 +3,8 @@ title: Angelo Velle
 subtitle: Welcome on my GitHub page
 layout: page
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
+menubar: example_menu
 ---
 
 <head>
