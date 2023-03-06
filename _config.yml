@@ -37,9 +37,7 @@ remote_theme: chrisrhymes/bulma-clean-theme
 relative_links:
   enabled: true
   collections: true
-include:
-  - index.html
-  - sitemap.xml
+
 permalink: pretty
 # Google Analytics
 google_analytics: UA-258889498-1 
