@@ -39,3 +39,6 @@ I'm currently working on omics data integration. My PhD project is focused on th
 
 
 {% include social-media-links.html %}
+
+<a href="https://www.facebook.com/your-facebook-username" title="Facebook"><i class="fa fa-facebook-square"></i></a>
+
