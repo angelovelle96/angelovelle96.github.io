@@ -38,8 +38,4 @@ I'm currently working on omics data integration. My PhD project is focused on th
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelovelle96&layout=compact)](https://github.com/angelovelle96)
 
 
-<i class="fa fa-envelope"></i>
-
 {% include social-media-links.html %}
-
-<a href="https://www.facebook.com/your-facebook-username" title="Facebook"><i class="fab fa-twitter"></i></a>
