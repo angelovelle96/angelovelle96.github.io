@@ -37,3 +37,5 @@ I'm currently working on omics data integration. My PhD project is focused on th
 [![angeve96 github stats](https://github-readme-stats.vercel.app/api?username=angelovelle96)](https://github.com/angelovelle96)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelovelle96&layout=compact)](https://github.com/angelovelle96)
 
+
+{% include social-media-links.html %}
