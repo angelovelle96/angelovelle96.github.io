@@ -14,20 +14,18 @@ hero_image: /docs/assets/banner.png
 {% include google_analytics.html %}
 </head>
 
-
-<p align="center">
-<img width="1000" height="250" src="/docs/assets/banner.png" alt="my banner">
-</p>
-
-<h3 align="center">
-Hi there, I'm Angelo 👋
-</h3>
-
 <h2 align="center">
 I'm a PhD student in Bioinformatics 💻
 </h2> 
 
 I'm currently working on omics data integration. My PhD project is focused on the development of computational strategies for the characterization of Stage I Ovarian Cancer
+
+<p align="center">
+<a href="https://angelovelle96.github.io/gINTomics/"><img width="250" height="250" src="/docs/assets/logo_gINTomics.png" alt="my banner"></a>
+Try gINTomics, our new Multi-Omics integration package
+</p>
+
+
 
 
 ### 🤝 Connect with me:
