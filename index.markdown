@@ -20,9 +20,12 @@ I'm a PhD student in Bioinformatics 💻
 
 I'm currently working on omics data integration. My PhD project is focused on the development of computational strategies for the characterization of Stage I Ovarian Cancer
 
+<h2 align="center">
+Try gINTomics, our new Multi-Omics integration package
+</h2> 
+
 <p align="center">
 <a href="https://angelovelle96.github.io/gINTomics/"><img width="250" height="250" src="/docs/assets/logo_gINTomics.png" alt="my banner"></a>
-Try gINTomics, our new Multi-Omics integration package
 </p>
 
 
@@ -39,4 +42,4 @@ Try gINTomics, our new Multi-Omics integration package
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelovelle96&layout=compact)](https://github.com/angelovelle96)
 
 
-{% include social-media-links.html %}
+#{% include social-media-links.html %}
