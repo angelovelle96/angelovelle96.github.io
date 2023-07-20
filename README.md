@@ -1,3 +1,11 @@
+layout: page
+title: The page title
+subtitle: The page subtitle
+description: This is the meta description for this page and will help it appear in search engines
+image: /docs/assets/banner.png
+
+
+
 <p align="center">
 <img width="1000" height="250" src="/docs/assets/banner.png" alt="my banner">
 </p>
