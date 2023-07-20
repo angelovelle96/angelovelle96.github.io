@@ -42,4 +42,4 @@ Try gINTomics, our new Multi-Omics integration package
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelovelle96&layout=compact)](https://github.com/angelovelle96)
 
 
-####"{% include social-media-links.html %}"
+{% include social-media-links.html %}
