@@ -1,7 +1,7 @@
 ---
 title: Angelo Velle
 subtitle: Welcome on my GitHub page
-layout: recipe
+layout: page
 description: Angelo Velle github page home
 hero_image: /docs/assets/banner.png
 #layout: page
