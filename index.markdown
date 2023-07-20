@@ -3,7 +3,7 @@ title: Angelo Velle
 subtitle: Welcome on my GitHub page
 layout: page
 description: Angelo Velle github page home
-#hero_image: /docs/assets/banner.png
+hero_image: /docs/assets/banner.png
 #layout: page
 #callouts: home_callouts
 #show_sidebar: false
