@@ -14,7 +14,7 @@ I'm a PhD student in Bioinformatics 💻
 I'm currently working on omics data integration. My PhD project is focused on the development of computational strategies for the characterization of Stage I Ovarian Cancer
 
 <h2 align="center">
-Try gINTomics, our new Multi-Omics integration package
+Try gINTomics, our new Multi-Omics integration R package
 </h2> 
 
 <p align="center">
