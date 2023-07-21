@@ -1,0 +1,17 @@
+twitter:
+  id: 'angelo_velle'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter'
+
+github:
+  id: 'angelovelle96'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github'
+
+linkedin:
+  id: 'angelo-velle'
+  href: ' https://linkedin.com/in/'
+  title: 'Linkedin'
+  fa-icon: 'fa-linkedin'

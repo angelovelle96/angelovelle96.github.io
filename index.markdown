@@ -1,11 +1,18 @@
+---
+title: Angelo Velle
+subtitle: Welcome on my GitHub page
+layout: page
+description: Angelo Velle github page home
+hero_image: /docs/assets/banner.jpg
+#layout: page
+#callouts: home_callouts
+#show_sidebar: false
+#menubar: example_menu
+---
 
-<p align="center">
-<img width="900" height="400" src="/docs/assets/banner.jpg" alt="my banner">
-</p>
-
-<h3 align="center">
-Hi there, I'm Angelo 👋
-</h3>
+<head>
+{% include google_analytics.html %}
+</head>
 
 <h2 align="center">
 I'm a PhD student in Bioinformatics 💻
@@ -22,6 +29,8 @@ Try gINTomics, our new Multi-Omics integration R package
 </p>
 
 
+
+
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/angelo-velle"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Angelo Velle | Linkedin"/></a>
 <a href="https://twitter.com/angelo_velle"><img align="left" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Angelo Velle | Twitter"/></a>
@@ -31,3 +40,6 @@ Try gINTomics, our new Multi-Omics integration R package
 
 [![angeve96 github stats](https://github-readme-stats.vercel.app/api?username=angelovelle96)](https://github.com/angelovelle96)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelovelle96&layout=compact)](https://github.com/angelovelle96)
+
+
+{% include social-media-links.html %}
