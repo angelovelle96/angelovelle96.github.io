@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="960" height="540" src="/docs/assets/banner.jpg" alt="my banner">
+<img width="900" height="400" src="/docs/assets/banner.jpg" alt="my banner">
 </p>
 
 <h3 align="center">
@@ -12,6 +12,14 @@ I'm a PhD student in Bioinformatics 💻
 </h2> 
 
 I'm currently working on omics data integration. My PhD project is focused on the development of computational strategies for the characterization of Stage I Ovarian Cancer
+
+<h2 align="center">
+Try gINTomics, our new Multi-Omics integration package
+</h2> 
+
+<p align="center">
+<a href="https://angelovelle96.github.io/gINTomics/"><img width="250" height="250" src="/docs/assets/logo_gINTomics.png" alt="my banner"></a>
+</p>
 
 
 ### 🤝 Connect with me:
